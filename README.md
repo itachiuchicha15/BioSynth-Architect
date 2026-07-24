@@ -76,7 +76,7 @@ e:\Gemma Hackathon/
 ### 1. Configure API Key
 Create a `.env` file at the root of the project containing your Cerebras API key (already pre-loaded in this workspace):
 ```env
-CEREBRAS_API_KEY=csk-dtmkxdejct8py9xf43nr3x6hkfjnwpyf9mp25mfy23dvjnt5
+CEREBRAS_API_KEY=
 ```
 
 ### 2. Start the Backend API
